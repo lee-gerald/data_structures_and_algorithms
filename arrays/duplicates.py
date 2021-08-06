@@ -1,6 +1,5 @@
 duplicates = [2,2,2]
 
-# instructor solution
 # method cannot handle values < 0 or > lengh of list
 # 0(N) linear running time
 def find_duplicates(nums):
